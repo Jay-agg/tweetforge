@@ -2,7 +2,7 @@
   "crons": [
     {
       "path": "/api/cron/auto-post",
-      "schedule": "0 9,12,17 * * *"
+      "schedule": "0 12 * * *"
     },
     {
       "path": "/api/cron/gather-metrics",
